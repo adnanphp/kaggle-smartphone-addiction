@@ -74,10 +74,6 @@ https://correlation_matrix.png
 https://model_comparison_plot.png
 https://feature_importance.png
 
-🔗 Links
-Kaggle Competition
-
-My Kaggle Profile
 
 📝 License
 MIT License
