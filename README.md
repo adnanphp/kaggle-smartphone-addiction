@@ -1,0 +1,1 @@
+# Kaggle Smartphone Addiction\n\n## Results\n- Best AUC: 0.5351\n- Top 50%\n\n## Code\nPython, LightGBM, XGBoost, CatBoost\n\n## Run\n```bash\npip install -r requirements.txt\npython run_competition_final_optimized.py\n```
