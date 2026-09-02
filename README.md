@@ -6,6 +6,12 @@ Predicting smartphone addiction risk based on behavioral and demographic data us
 - **Competition**: Playground Series - Season 6 Episode 8
 - **Goal**: Binary classification (Addicted/Not Addicted)
 - **Best Score**: AUC 0.5351
+## Kaggle Competition: Smartphone Addiction Prediction
+
+- **Score**: 0.499 (Public LB)
+- **Approach**: Ensemble of LightGBM, XGBoost, CatBoost
+- **Technologies**: Python, Scikit-learn, LightGBM, XGBoost, CatBoost
+
 
 
 ## 🛠️ Technologies Used
